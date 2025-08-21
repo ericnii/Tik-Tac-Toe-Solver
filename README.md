@@ -5,8 +5,6 @@ This algorithm uses the graph data structure and a depth-first-search so find al
 Note that there are about 40000 game states for a 3x3 board, and a 4x4 board has about 85 million game states. 
 
 The accepted format of the board is represented as: [["X", "", "O"], ["", "O", ""], ["X", "", ""]]. 
-Visually, that represents: X| |O
-                            |O|
-                           X| |                      
+                    
 
  
